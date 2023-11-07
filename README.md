@@ -1,13 +1,16 @@
-# Excel 1
-## Background
+# Data Visualization and Analysis with Excel 
+
+![GitHub VBA_image](https://github.com/fgsalomao/Excel/blob/main/VBA_image.png)
+
+## Background :computer:
 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
-## Bonus
+## Bonus :information_source:
 
-* Create a new sheet with 8 columns:
+* **Create a new sheet with 8 columns:**
 
   * `Goal`
   * `Number Successful`
@@ -18,7 +21,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
   * `Percentage Failed`
   * `Percentage Canceled`
 
-* In the `Goal` column, create 12 rows with the following headers:
+* **In the `Goal` column, create 12 rows with the following headers:**
 
   * Less than 1000
   * 1000 to 4999
@@ -39,20 +42,17 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 * Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 
-## Statistical Analysis
+## Statistical Analysis :bulb:
 
 * Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
 * Use Excel to evaluate the following for successful campaigns, and then do the same for unsuccessful campaigns:
 
   * The mean number of backers
-
   * The median number of backers
   * The minimum number of backers
   * The maximum number of backers
-
   * The variance of the number of backers
-
   * The standard deviation of the number of backers
   
 * Use your data to determine whether the mean or the median better summarizes the data.
