@@ -1,6 +1,6 @@
 # Data Visualization and Analysis with Excel 
 
-![GitHub VBA_image](https://github.com/fgsalomao/Excel/blob/main/VBA_image.png)
+![GitHub excel_image](https://github.com/fgsalomao/Excel/blob/main/excel_image.png)
 
 ## Background :computer:
 
